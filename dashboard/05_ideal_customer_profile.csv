@@ -1,0 +1,70 @@
+state,gender,observed_category,icp_customer_count,avg_age,avg_estimated_total_purchases,avg_purchase_amount_usd,avg_estimated_net_margin,observed_promo_usage_pct
+Illinois,Male,Accessories,13,42.8,27.69,69.54,36.72,0.0
+Mississippi,Male,Clothing,13,45.8,27.15,75.23,40.14,0.0
+South Carolina,Male,Clothing,13,50.8,30.69,80.46,43.28,0.0
+Idaho,Male,Clothing,11,46.1,30.64,77.27,41.36,0.0
+Arkansas,Male,Clothing,10,40.6,29.6,78.4,42.04,0.0
+Indiana,Male,Clothing,10,45.3,31.8,81.0,43.6,0.0
+Alaska,Male,Clothing,9,48.1,37.0,81.56,43.93,0.0
+Georgia,Female,Clothing,9,49.9,31.44,84.11,45.47,0.0
+California,Male,Clothing,8,36.5,33.13,81.25,43.75,0.0
+Colorado,Male,Accessories,8,43.1,30.75,76.63,40.98,0.0
+Colorado,Male,Clothing,8,38.6,33.0,74.13,39.48,0.0
+Indiana,Female,Clothing,8,52.3,28.25,73.88,39.33,0.0
+Indiana,Male,Accessories,8,47.4,28.0,76.25,40.75,0.0
+Kansas,Male,Accessories,8,36.9,26.13,69.0,36.4,0.0
+Maine,Male,Clothing,8,49.8,22.75,82.25,44.35,0.0
+Massachusetts,Male,Clothing,8,42.9,34.88,80.75,43.45,0.0
+Missouri,Male,Clothing,8,38.8,30.13,75.38,40.23,0.0
+Delaware,Male,Clothing,7,51.1,31.86,83.71,45.23,0.0
+Illinois,Male,Clothing,7,43.3,17.29,76.43,40.86,0.0
+Iowa,Male,Clothing,7,44.0,30.71,79.57,42.74,0.0
+Montana,Male,Clothing,7,39.1,32.86,70.71,37.43,0.0
+Nevada,Male,Accessories,7,46.7,33.29,74.0,39.4,0.0
+New York,Male,Clothing,7,42.4,25.57,77.71,41.63,0.0
+North Carolina,Male,Accessories,7,39.0,35.29,86.43,46.86,0.0
+North Dakota,Male,Clothing,7,34.3,38.71,70.71,37.43,0.0
+Oklahoma,Male,Accessories,7,30.0,26.29,78.14,41.89,0.0
+Vermont,Female,Clothing,7,49.4,33.57,82.29,44.37,0.0
+Alabama,Male,Clothing,6,55.2,21.0,71.67,38.0,0.0
+Alaska,Male,Footwear,6,39.7,28.83,76.67,41.0,0.0
+Arkansas,Male,Accessories,6,44.3,40.5,70.67,37.4,0.0
+Georgia,Male,Accessories,6,40.3,34.0,78.0,41.8,0.0
+Georgia,Male,Clothing,6,37.0,29.5,83.67,45.2,0.0
+Iowa,Female,Clothing,6,45.5,37.83,76.33,40.8,0.0
+Kansas,Male,Clothing,6,37.0,24.67,84.0,45.4,0.0
+Missouri,Female,Accessories,6,48.2,22.67,79.17,42.5,0.0
+Nebraska,Female,Clothing,6,51.7,28.33,76.67,41.0,0.0
+Nevada,Male,Clothing,6,45.5,30.5,83.5,45.1,0.0
+Ohio,Male,Clothing,6,41.8,27.33,81.83,44.1,0.0
+South Dakota,Male,Accessories,6,44.5,38.83,83.0,44.8,0.0
+South Dakota,Male,Clothing,6,56.3,23.5,77.0,41.2,0.0
+Tennessee,Male,Clothing,6,46.3,21.5,72.17,38.3,0.0
+West Virginia,Male,Accessories,6,49.7,29.67,74.83,39.9,0.0
+West Virginia,Male,Clothing,6,49.3,31.5,83.5,45.1,0.0
+Alaska,Male,Accessories,5,42.4,36.8,76.0,40.6,0.0
+Arizona,Female,Clothing,5,38.0,43.2,72.6,38.56,0.0
+Arizona,Male,Clothing,5,38.2,34.8,72.0,38.2,0.0
+Delaware,Female,Clothing,5,45.2,30.6,68.4,36.04,0.0
+Illinois,Male,Footwear,5,45.0,29.6,78.6,42.16,0.0
+Kansas,Male,Footwear,5,36.2,34.2,79.6,42.76,0.0
+Kentucky,Male,Clothing,5,38.0,38.4,86.8,47.08,0.0
+Kentucky,Male,Footwear,5,36.4,30.8,69.8,36.88,0.0
+Louisiana,Male,Clothing,5,46.0,27.4,90.4,49.24,0.0
+Maryland,Male,Accessories,5,52.8,22.8,80.8,43.48,0.0
+Minnesota,Female,Accessories,5,47.0,26.0,81.4,43.84,0.0
+Minnesota,Male,Clothing,5,40.4,30.4,84.8,45.88,0.0
+Mississippi,Male,Accessories,5,36.2,32.2,80.6,43.36,0.0
+Missouri,Male,Footwear,5,41.8,23.4,74.0,39.4,0.0
+Nebraska,Male,Footwear,5,43.0,38.2,89.2,48.52,0.0
+New Jersey,Male,Clothing,5,49.6,31.0,84.6,45.76,0.0
+New York,Male,Accessories,5,48.2,28.4,76.8,41.08,0.0
+Oklahoma,Male,Clothing,5,33.4,24.2,71.4,37.84,0.0
+Oregon,Male,Clothing,5,34.4,23.2,73.2,38.92,0.0
+South Carolina,Male,Accessories,5,43.2,22.6,80.6,43.36,0.0
+Utah,Male,Clothing,5,36.0,25.2,74.6,39.76,0.0
+Vermont,Male,Accessories,5,42.4,32.8,77.0,41.2,0.0
+Vermont,Male,Clothing,5,53.2,28.0,72.8,38.68,0.0
+Wyoming,Female,Clothing,5,42.6,26.8,70.0,37.0,0.0
+Wyoming,Male,Clothing,5,55.4,35.8,73.0,38.8,0.0
+Wyoming,Male,Footwear,5,39.4,32.2,83.6,45.16,0.0

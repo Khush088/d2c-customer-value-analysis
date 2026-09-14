@@ -1,0 +1,5 @@
+strategic_segment,total_customers,customer_pct,avg_estimated_total_purchases,avg_purchase_amount_usd,avg_estimated_net_margin,observed_promo_usage_pct,avg_frequency_proxy_days
+1. High Value Organic,940,24.1,30.8,77.0,41.2,0.0,87.0
+2. High Spend Bargain Hunter,477,12.23,26.79,88.84,39.42,100.0,90.3
+4. Mid-Tier Core,1166,29.9,22.99,44.38,21.63,0.0,89.0
+3. Promo-Using Repeat,1317,33.77,26.5,48.64,19.32,100.0,87.1

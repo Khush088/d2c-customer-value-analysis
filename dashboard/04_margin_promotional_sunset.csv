@@ -1,0 +1,5 @@
+strategic_segment,total_customers,total_orders,total_gross_spend,total_discount_given,total_net_spend,total_net_margin_base_cogs40,observed_promo_usage_pct,modeled_recovery_25pct_sunset,modeled_recovery_50pct_sunset,modeled_recovery_75pct_sunset
+3. Promo-Using Repeat,1317,34901,80077.5,16015.5,64062.0,25446.0,100.0,4003.88,8007.75,12011.63
+2. High Spend Bargain Hunter,477,12781,52968.75,10593.75,42375.0,18802.5,100.0,2648.44,5296.88,7945.31
+4. Mid-Tier Core,1166,26808,51743.0,0.0,51743.0,25215.8,0.0,0.0,0.0,0.0
+1. High Value Organic,940,28956,72379.0,0.0,72379.0,38727.4,0.0,0.0,0.0,0.0

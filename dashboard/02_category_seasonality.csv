@@ -1,0 +1,5 @@
+product_category,total_buyers,buyer_share_pct,avg_estimated_total_purchases,avg_purchase_amount_usd,avg_estimated_net_margin,observed_promo_usage_pct
+Clothing,1659,42.54,26.23,59.62,27.99,46.71
+Footwear,692,17.74,26.68,58.91,27.77,43.64
+Accessories,1240,31.79,26.68,59.06,27.61,47.74
+Outerwear,309,7.92,27.11,57.09,26.86,40.45
