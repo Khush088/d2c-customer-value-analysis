@@ -523,9 +523,6 @@ project/
 │   ├── *.csv
 │   └── customer_value.pbix
 │
-├── deliverables/
-│   └── retention_playbook.md
-│
 └── README.md
 ```
 
